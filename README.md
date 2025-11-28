@@ -30,10 +30,9 @@
 ---
 
 ## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvaBucks&show_icons=true&theme=dracula&rank_icon=github" />
-</p>
+  
+![](https://raw.githubusercontent.com/Avabucks/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Avabucks/github-stats/master/generated/languages.svg)
 
 ---
 
