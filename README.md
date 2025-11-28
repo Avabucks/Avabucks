@@ -1,45 +1,48 @@
-# Hi, I'm Alessandro De Stefano 👋
+# 👋 Hi there, I'm **Alessandro De Stefano**
 
-I'm a passionate developer who loves to code and build cool projects.  
-📍 Based in **Italy** 🇮🇹
-
----
-
-## 🚀 Skills & Technologies
-
-### 💻 Languages
-- TypeScript  
-- JavaScript  
-- C  
-- Visual Basic  
-- PHP  
-- Java  
-
-### 🧩 Frameworks
-- React.js  
-- Next.js  
-
-### 🗄️ Databases
-- MySQL  
-- PostgreSQL  
-- Firebase  
-
-### 🛠️ Tools
-- Git  
-- VS Code  
-- Docker  
+💡 A developer who loves building things that live on the web.  
+🌍 Based in **Italy** 🇮🇹  
+🔥 Always learning, experimenting, and creating.
 
 ---
 
-## 📫 Contact Me
+## 🚀 Tech Stack
 
-- **LinkedIn:** [alessandro-de-stefano-02361036a](https://www.linkedin.com/in/alessandro-de-stefano-02361036a/)
-- **Instagram:** [@deste_x04](https://www.instagram.com/deste_x04/)
+### 💻 **Languages**
+➡️ TypeScript • JavaScript • C • Visual Basic • PHP • Java
+
+### ⚛️ **Frameworks & Libraries**
+➡️ React.js • Next.js
+
+### 🗄️ **Databases**
+➡️ MySQL • PostgreSQL • Firebase
+
+### 🛠️ **Tools & Environment**
+➡️ Git • VS Code • Docker
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect with Me
 
-![Alessandro De Stefano - GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coding-Rod&rank_icon=github&theme=dracula)
+🔗 **LinkedIn:** [alessandro-de-stefano-02361036a](https://www.linkedin.com/in/alessandro-de-stefano-02361036a/)  
+📸 **Instagram:** [@deste_x04](https://www.instagram.com/deste_x04/)
 
 ---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coding-Rod&show_icons=true&theme=dracula&rank_icon=github" />
+</p>
+
+---
+
+## ✨ About Me
+
+- 🧠 Curious by nature  
+- 🎯 Focused on clean code & good architecture  
+- 🎨 I enjoy UI/UX aesthetics  
+- 🚀 Currently exploring **full-stack development**
+
+---
+
