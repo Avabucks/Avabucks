@@ -32,7 +32,7 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coding-Rod&show_icons=true&theme=dracula&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AvaBucks&show_icons=true&theme=dracula&rank_icon=github" />
 </p>
 
 ---
