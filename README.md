@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 GitHub Overview
-  
-![](https://raw.githubusercontent.com/Avabucks/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/Avabucks/github-stats/master/generated/languages.svg)
-
----
-
 ## ✨ About Me
 
 - 🧠 Curious by nature  
