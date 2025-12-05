@@ -12,7 +12,7 @@
 ➡️ TypeScript • JavaScript • C • Visual Basic • PHP • Java
 
 ### ⚛️ **Frameworks & Libraries**
-➡️ React.js • Next.js
+➡️ React.js • Next.js • React Native
 
 ### 🗄️ **Databases**
 ➡️ MySQL • PostgreSQL • Firebase
