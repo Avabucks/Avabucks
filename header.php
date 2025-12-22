@@ -374,7 +374,7 @@
                             <li class="lnk ripple"><a href="#portfolio"><i class='bx bx-card-view'></i>Portfolio</a></li>
                             <li class="lnk ripple"><a href="#about"><i class='bx bx-book-alt'></i>About</a></li>
                             <li class="lnk ripple"><a href="#faqs"><i class='bx bx-quote-single-left'></i>FAQs</a></li>
-                            <li class="lnk ripple gradient hide-on-desktop"><a href="https://www.linkedin.com/in/alessandro-de-stefano-02361036a" target="_blank"><i class='bx bx-finger-up bx-tada icon-butt search-icon'></i>Get in Touch</a></li>
+                            <li class="lnk ripple linkedin hide-on-desktop"><a href="https://www.linkedin.com/in/alessandro-de-stefano-02361036a" target="_blank"><i class='bxl bx-linkedin-square bx-tada icon-butt search-icon'></i>Get in Touch</a></li>
                         </ul>
                     </div>
                     <div class="copyright">
@@ -385,7 +385,7 @@
 
             <div class="menu-cont">
                     <div class="v-divider"></div>
-                    <div class="ripple gradient"><a href="https://www.linkedin.com/in/alessandro-de-stefano-02361036a" target="_blank"><i class='bx bx-finger-up bx-tada icon-butt search-icon'></i>Get in Touch</a></div>
+                    <div class="ripple linkedin"><a href="https://www.linkedin.com/in/alessandro-de-stefano-02361036a" target="_blank"><i class='bxl bx-linkedin-square bx-tada icon-butt search-icon'></i>Get in Touch</a></div>
             </div>
         </div>
     </header>

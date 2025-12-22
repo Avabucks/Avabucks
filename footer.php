@@ -159,7 +159,7 @@
                   <h2>AvaBucks Society</h2>
                   <p>Passionate about building clean, responsive, and user-friendly apps with React, React Native, Expo, and modern web technologies. Let's create something great together.</p>
                   <div class="contact-buttons">
-                    <div class="ripple instagram"><a href="https://www.instagram.com/avabuckssociety/" target="_blank"><i class='bxl bx-instagram'></i>Contact on Instagram</a></div>
+                    <div class="ripple instagram"><a href="https://www.instagram.com/deste_x04/" target="_blank"><i class='bxl bx-instagram'></i>Contact on Instagram</a></div>
                     <div class="ripple outline"><a href="mailto:avabuckssociety@gmail.com" target="_blank"><i class='bx bx-envelope'></i>Contact by Email</a></div>
                   </div>
               </div>

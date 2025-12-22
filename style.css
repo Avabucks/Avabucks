@@ -139,6 +139,14 @@ i {
     background: linear-gradient(45deg, #b86e27 0%, #b3532f 25%, #a32839 50%, #8e1d4d 75%, #72185e 100%);
 }
 
+.ripple.linkedin>a {
+    background: linear-gradient(45deg, #0077B5 0%, #005582 50%, #004471 100%);
+}
+
+.ripple.github>a {
+    background: linear-gradient(45deg, #333333 0%, #24292e 50%, #1a1e22 100%);
+}
+
 .ripple.disabled,
 .ripple.disabled>a {
     opacity: .6;
