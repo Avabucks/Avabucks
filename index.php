@@ -109,7 +109,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple github"><a href="https://github.com/Avabucks/FocusSpot" target="_blank"><i
                                     class='bxl bx-github icon-butt search-icon'></i>Rate on GitHub</a></div>
-                        <div class="ripple primary"><a href="https://focusspot.vercel.app/" target="_blank"><i
+                        <div class="ripple gradient"><a href="https://focusspot.vercel.app/" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Check
                                 out FocusSpot</a></div>
                     </div>
@@ -143,7 +143,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple github"><a href="https://github.com/Avabucks/Proverby" target="_blank"><i
                                     class='bxl bx-github icon-butt search-icon'></i>Rate on GitHub</a></div>
-                        <div class="ripple primary"><a href="https://proverby.it/" target="_blank"><i
+                        <div class="ripple gradient"><a href="https://proverby.it/" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Check
                                 out Proverby</a></div>
                     </div>
@@ -175,7 +175,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple github"><a href="https://github.com/Avabucks/BlazeBegin" target="_blank"><i
                                     class='bxl bx-github icon-butt search-icon'></i>Rate on GitHub</a></div>
-                        <div class="ripple primary"><a href="https://blazebegin.avabucks.it/" target="_blank"><i
+                        <div class="ripple gradient"><a href="https://blazebegin.avabucks.it/" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Check
                                 out BlazeBegin</a></div>
                     </div>
@@ -207,7 +207,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple github"><a href="https://github.com/Avabucks/BoxCoding" target="_blank"><i
                                     class='bxl bx-github icon-butt search-icon'></i>Rate on GitHub</a></div>
-                        <div class="ripple primary"><a href="https://boxcoding.avabucks.it/" target="_blank"><i
+                        <div class="ripple gradient"><a href="https://boxcoding.avabucks.it/" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Check
                                 out BoxCoding</a></div>
                     </div>
@@ -239,7 +239,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple github"><a href="https://github.com/Avabucks/Plater" target="_blank"><i
                                     class='bxl bx-github icon-butt search-icon'></i>Rate on GitHub</a></div>
-                        <div class="ripple primary"><a href="http://plater.avabucks.it/" target="_blank"><i
+                        <div class="ripple gradient"><a href="http://plater.avabucks.it/" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Check
                                 out Plater</a></div>
                     </div>
@@ -266,7 +266,7 @@
                         </div>
                     </div>
                     <div class="cta-portfolio">
-                        <div class="ripple primary"><a href="portfolio/PongBall" target="_blank"><i
+                        <div class="ripple gradient"><a href="portfolio/PongBall" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Try
                                 PongBall</a></div>
                     </div>
@@ -295,7 +295,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple outline"><a href="portfolio/BrokenPin.apk" download><i
                                     class='bxl bx-android icon-butt search-icon'></i>Download APK</a></div>
-                        <div class="ripple primary"><a href="portfolio/BrokenPin" target="_blank"><i
+                        <div class="ripple gradient"><a href="portfolio/BrokenPin" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Try
                                 BrokenPin</a></div>
                     </div>
@@ -325,7 +325,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple outline"><a href="portfolio/BouncyRun.apk" download><i
                                     class='bxl bx-android icon-butt search-icon'></i>Download APK</a></div>
-                        <div class="ripple primary"><a href="portfolio/BouncyRun" target="_blank"><i
+                        <div class="ripple gradient"><a href="portfolio/BouncyRun" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Try
                                 BouncyRun</a></div>
                     </div>
@@ -356,7 +356,7 @@
                     <div class="cta-portfolio">
                         <div class="ripple outline"><a href="portfolio/Duet.apk" download><i
                                     class='bxl bx-android icon-butt search-icon'></i>Download APK</a></div>
-                        <div class="ripple primary"><a href="portfolio/Duet" target="_blank"><i
+                        <div class="ripple gradient"><a href="portfolio/Duet" target="_blank"><i
                                     class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Try
                                 Duet</a></div>
                     </div>
