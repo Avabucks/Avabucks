@@ -1,0 +1,243 @@
+@media only screen and (max-width: 1024px) {
+
+    :root {
+        --max-width: 95%;
+    }
+
+    .lock-scroll {
+        overflow: hidden;
+    }
+
+    .hide-on-mobile {
+        display: none !important;
+    }
+
+    .hide-on-desktop {
+        display: flex !important;
+    }
+
+    header {
+        justify-content: flex-start;
+        padding-inline: 0 20px !important;
+    }
+
+    header .headerLeft .toggleMenu {
+        display: flex !important;
+        margin-left: 15px;
+        margin-right: 0px;
+    }
+
+    header .username-tag {
+        display: none !important;
+    }
+
+    header .nav {
+        position: fixed;
+        z-index: 1001;
+        top: 0;
+        left: 0;
+        width: 280px;
+        height: 100vh;
+        background-color: rgb(15, 15, 15, .2);
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        border-right: 1px solid var(--line-color);
+        overflow: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    header .nav .ripple,
+    header .nav .ripple > a {
+        width: 100%;
+        justify-content: flex-start;
+    }
+    header .nav .search-menu {
+        display: flex !important;
+    }
+
+    header .shadow {
+        position: fixed;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100vh;
+        background-color: rgb(0, 0, 0, .7);
+        opacity: 0;
+    }
+
+    header .shadow-active {
+        z-index: 999;
+        opacity: 1;
+        display: block !important;
+    }
+    header .shadow-inactive {
+        background-color: rgb(0, 0, 0, .7);
+        opacity: 0;
+    }
+
+    header .nav-active {
+        transition: .3s ease-out;
+        opacity: 1;
+        transform: translateX(0);
+        pointer-events: auto;
+    }
+    header .nav-inactive {
+        transition: .3s ease-out;
+        opacity: .5;
+        transform: translateX(-100%);
+        pointer-events: none;
+    }
+
+    header .nav .menu {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        align-items: initial;
+    }
+
+    header .copyright {
+        display: flex !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 40px;
+        height: 80px;
+        color: rgb(255, 255, 255, .7);
+        border-top: 1px solid var(--line-color);
+        font-size: .9em;
+    }
+
+    .nav .logo {
+        display: flex !important;
+        height: 105px;
+        border-bottom: 1px solid var(--line-color);
+    }
+
+    header .nav .menu .ripple {
+        padding: 10px 15px 0;
+    }
+
+    header .nav .menu .ripple a::after {
+        background-color: var(--line-color);
+    }
+
+    header .menu-cont {
+        gap: 20px !important;
+    }
+    
+    .tool-tip > div {
+        margin-right: 10px !important;
+        width: calc(100% - 20px) !important;
+    }
+
+    header .signup-butt {
+        display: none;
+    }
+
+    header .outline:not(.diamond) {
+        margin-right: 10px;
+    }
+    header .outline span {
+      max-width: 60px !important;
+    }
+
+    header .v-divider {
+        display: none;
+    }
+
+    header .ripple.gradient {
+        display: none;
+    }
+
+    .bg-svg .lines-container {
+        display: none;
+    }
+
+    .bg-svg .bx-bracket-curly {
+        left: -80px;
+    }
+
+    .home {
+        padding: 150px 0 50px;
+    }
+
+    .home .hero {
+        width: 95%;
+    }
+
+    .home h1 {
+        font-size: 2em;
+    }
+
+    .home h2 {
+        width: 90%;
+    }
+
+    .gradient-bg {
+        height: 48px;
+    }
+
+    .section {
+        padding-inline: 10px;
+    }
+
+    .section>div.section-title h3 {
+        font-size: 1.7em;
+    }
+
+    .tools {
+        width: 100%;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 20px;
+    }
+
+    .portfolio .portfolio-container>div:not(.divider) {
+        flex-direction: column;
+    }
+
+    .portfolio .portfolio-container>div:not(.divider) .thumb > a > div {
+        width: 100%;
+        aspect-ratio: 3 / 2;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .portfolio .portfolio-container>div:not(.divider) .info .cta-portfolio {
+        margin-top: 20px;
+        flex-direction: column;
+    }
+
+    .portfolio .portfolio-container>div:not(.divider) .info .cta-portfolio > div,
+    .portfolio .portfolio-container>div:not(.divider) .info .cta-portfolio > div a {
+        width: 100%;
+    }
+
+    .divider::before, .divider::after {
+        width: 120px;
+    }
+
+    .about>div {
+        flex: 0 0 100%;
+    }
+
+    .about>div.img-cont {
+        display: none;
+    }
+
+    .faqs>div.faqs-container {
+        padding: 0 0 50px;
+    }
+
+    .faqs>div.faqs-container>div {
+        width: 100%;
+    }
+
+    #faq-underline {
+        width: 150px;
+    }
+
+}

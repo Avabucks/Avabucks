@@ -1,0 +1,21 @@
+{
+	"name": "PongBall",
+	"short_name": "PongBall",
+	"description": "A simple pong game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "258x258",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "514x514",
+			"type": "image/png"
+		}
+	]
+}

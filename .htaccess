@@ -1,0 +1,27 @@
+RewriteEngine On
+
+# Rimuove l'estensione .php dagli URL
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# Impedisce l'accesso diretto con .php nell'URL
+RewriteCond %{THE_REQUEST} \s/([^\s]+)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# Serve gzipped JS and data for Unity WebGL
+<IfModule mod_mime.c>
+  AddType application/javascript .js
+  AddType application/octet-stream .data
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.js\.gz$">
+    Header set Content-Encoding gzip
+  </FilesMatch>
+  <FilesMatch "\.data\.gz$">
+    Header set Content-Encoding gzip
+  </FilesMatch>
+  <FilesMatch "\.mem\.gz$">
+    Header set Content-Encoding gzip
+  </FilesMatch>
+</IfModule>
