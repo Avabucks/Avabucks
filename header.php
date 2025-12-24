@@ -385,7 +385,7 @@
 
             <div class="menu-cont">
                     <div class="v-divider"></div>
-                    <div class="ripple linkedin"><a href="https://www.linkedin.com/in/alessandro-de-stefano-02361036a" target="_blank"><i class='bxl bx-linkedin-square bx-tada icon-butt search-icon'></i>Get in Touch</a></div>
+                    <div class="ripple linkedin"><a href="https://www.linkedin.com/in/alessandro-de-stefano-02361036a" target="_blank"><i class='bxl bx-linkedin-square bx-tada icon-butt search-icon'></i><span class="hide-on-mobile">Get in Touch</span></a></div>
             </div>
         </div>
     </header>
