@@ -37,3 +37,7 @@
 - 🚀 Currently exploring **full-stack development**
 
 ---
+
+## 📊 GitHub Stats
+
+![Avabucks - GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avabucks&rank_icon=github&theme=dracula)
