@@ -83,6 +83,38 @@
             </h3>
         </div>
         <div class="portfolio-container">
+            <!-- FORMULABASE -->
+            <div>
+                <div class="thumb">
+                    <a href="https://formulario-five.vercel.app/" target="_blank">
+                        <div style="background-image: url('assets/21shots_so.webp');"></div>
+                    </a>
+                </div>
+                <div class="info">
+                    <div>
+                        <span class="tag">Web App</span>
+                        <h3>FormulaBase</h3>
+                        <span class="desc">FormulaBase is the app that helps you write and visualize math notes with an
+                            integrated editor that supports formulas, Markdown, and scientific notation — all in one
+                            place.</span>
+                        <div class="logos">
+                            <i class='bxl bx-react'></i>
+                            <i class='bxl bx-html5'></i>
+                            <i class='bxl bx-css3'></i>
+                            <i class='bxl bx-typescript'></i>
+                            <i class='bxl bx-next-js'></i>
+                        </div>
+                    </div>
+                    <div class="cta-portfolio">
+                        <div class="ripple github"><a href="https://github.com/Avabucks/formulario" target="_blank"><i
+                                    class='bxl bx-github icon-butt search-icon'></i>Rate on GitHub</a></div>
+                        <div class="ripple gradient"><a href="https://formulario-five.vercel.app/" target="_blank"><i
+                                    class='bx bx-arrow-out-up-right-stroke-square bx-tada icon-butt search-icon'></i>Check
+                                out FormulaBase</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="divider"><i class="bx bx-crown"></i></div>
             <!-- FOCUSSPOT -->
             <div>
                 <div class="thumb">
@@ -462,7 +494,8 @@
             <h4>Didn't find an answer?</h4>
             <span>Our team is here to help you — just reach out!</span>
             <div class="ripple linkedin"><a href="https://www.linkedin.com/in/alessandro-de-stefano-02361036a"
-                    target="_blank"><i class='bxl bx-linkedin-square bx-tada icon-butt search-icon'></i>Get in Touch</a></div>
+                    target="_blank"><i class='bxl bx-linkedin-square bx-tada icon-butt search-icon'></i>Get in Touch</a>
+            </div>
         </div>
     </div>
 
