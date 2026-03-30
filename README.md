@@ -40,5 +40,4 @@
 
 ## 📊 GitHub Stats
 
-![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/naxey/jstriebs-github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=Avabucks&rank_icon=github&theme=dracula)
