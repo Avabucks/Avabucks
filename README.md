@@ -40,4 +40,4 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Avabucks&rank_icon=github&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Avabucks)](https://git.io/streak-stats)
